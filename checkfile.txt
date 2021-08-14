@@ -1,0 +1,684 @@
+1000 Maniacs	Our Time in Eden	1992	<built-in method title of str object at 0x000001A5F687ED00>
+1000 Maniacs	Our Time in Eden	1992	<built-in method title of str object at 0x000001A5F6883730>
+1000 Maniacs	Our Time in Eden	1992	<built-in method title of str object at 0x000001A5F68837B0>
+1000 Maniacs	Our Time in Eden	1992	<built-in method title of str object at 0x000001A5F6884A30>
+1000 Maniacs	Our Time in Eden	1992	<built-in method title of str object at 0x000001A5F6884A80>
+1000 Maniacs	Our Time in Eden	1992	<built-in method title of str object at 0x000001A5F6884AD0>
+1000 Maniacs	Our Time in Eden	1992	<built-in method title of str object at 0x000001A5F6883830>
+1000 Maniacs	Our Time in Eden	1992	<built-in method title of str object at 0x000001A5F6883870>
+1000 Maniacs	Our Time in Eden	1992	<built-in method title of str object at 0x000001A5F68838B0>
+1000 Maniacs	Our Time in Eden	1992	<built-in method title of str object at 0x000001A5F6883630>
+1000 Maniacs	Our Time in Eden	1992	<built-in method title of str object at 0x000001A5F6884B20>
+1000 Maniacs	Our Time in Eden	1992	<built-in method title of str object at 0x000001A5F68838F0>
+1000 Maniacs	Our Time in Eden	1992	<built-in method title of str object at 0x000001A5F6883930>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6883970>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6884B70>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6883A70>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6884C10>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6884C60>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6883AF0>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F687B930>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6884CB0>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6884D00>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6883770>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6883B30>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6883B70>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6884D50>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6883BB0>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6883BF0>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6884DA0>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6883C30>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6884DF0>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6883C70>
+10cc	The Best Of The Early Years	2002	<built-in method title of str object at 0x000001A5F6883CB0>
+AC DC	If You Want Blood, You've Got It	1978	<built-in method title of str object at 0x000001A5F6883CF0>
+AC DC	If You Want Blood, You've Got It	1978	<built-in method title of str object at 0x000001A5F6884BC0>
+AC DC	If You Want Blood, You've Got It	1978	<built-in method title of str object at 0x000001A5F6883DF0>
+AC DC	If You Want Blood, You've Got It	1978	<built-in method title of str object at 0x000001A5F6883E30>
+AC DC	If You Want Blood, You've Got It	1978	<built-in method title of str object at 0x000001A5F6883E70>
+AC DC	If You Want Blood, You've Got It	1978	<built-in method title of str object at 0x000001A5F6884E40>
+AC DC	If You Want Blood, You've Got It	1978	<built-in method title of str object at 0x000001A5F6884E90>
+AC DC	If You Want Blood, You've Got It	1978	<built-in method title of str object at 0x000001A5F6883EF0>
+AC DC	If You Want Blood, You've Got It	1978	<built-in method title of str object at 0x000001A5F6884EE0>
+AC DC	If You Want Blood, You've Got It	1978	<built-in method title of str object at 0x000001A5F68839F0>
+AC DC	For Those About To Rock (We Salute You)	1981	<built-in method title of str object at 0x000001A5F687BA50>
+AC DC	For Those About To Rock (We Salute You)	1981	<built-in method title of str object at 0x000001A5F6884F80>
+AC DC	For Those About To Rock (We Salute You)	1981	<built-in method title of str object at 0x000001A5F6883F70>
+AC DC	For Those About To Rock (We Salute You)	1981	<built-in method title of str object at 0x000001A5F6885030>
+AC DC	For Those About To Rock (We Salute You)	1981	<built-in method title of str object at 0x000001A5F6883FB0>
+AC DC	For Those About To Rock (We Salute You)	1981	<built-in method title of str object at 0x000001A5F6887070>
+AC DC	For Those About To Rock (We Salute You)	1981	<built-in method title of str object at 0x000001A5F68870B0>
+AC DC	For Those About To Rock (We Salute You)	1981	<built-in method title of str object at 0x000001A5F6885080>
+AC DC	For Those About To Rock (We Salute You)	1981	<built-in method title of str object at 0x000001A5F68850D0>
+AC DC	For Those About To Rock (We Salute You)	1981	<built-in method title of str object at 0x000001A5F6887030>
+Aerosmith	Aerosmith	1973	<built-in method title of str object at 0x000001A5F6887130>
+Aerosmith	Aerosmith	1973	<built-in method title of str object at 0x000001A5F6887230>
+Aerosmith	Aerosmith	1973	<built-in method title of str object at 0x000001A5F68872F0>
+Aerosmith	Aerosmith	1973	<built-in method title of str object at 0x000001A5F6887330>
+Aerosmith	Aerosmith	1973	<built-in method title of str object at 0x000001A5F6887370>
+Aerosmith	Aerosmith	1973	<built-in method title of str object at 0x000001A5F68873F0>
+Aerosmith	Aerosmith	1973	<built-in method title of str object at 0x000001A5F6887430>
+Aerosmith	Aerosmith	1973	<built-in method title of str object at 0x000001A5F6887470>
+Aerosmith	Get Your Wings	1974	<built-in method title of str object at 0x000001A5F68851C0>
+Aerosmith	Get Your Wings	1974	<built-in method title of str object at 0x000001A5F6885260>
+Aerosmith	Get Your Wings	1974	<built-in method title of str object at 0x000001A5F6887530>
+Aerosmith	Get Your Wings	1974	<built-in method title of str object at 0x000001A5F68852B0>
+Aerosmith	Get Your Wings	1974	<built-in method title of str object at 0x000001A5F6885300>
+Aerosmith	Get Your Wings	1974	<built-in method title of str object at 0x000001A5F6885350>
+Aerosmith	Get Your Wings	1974	<built-in method title of str object at 0x000001A5F68853A0>
+Aerosmith	Get Your Wings	1974	<built-in method title of str object at 0x000001A5F68875B0>
+Aerosmith	Toys In The Attic	1975	<built-in method title of str object at 0x000001A5F6885440>
+Aerosmith	Toys In The Attic	1975	<built-in method title of str object at 0x000001A5F6887570>
+Aerosmith	Toys In The Attic	1975	<built-in method title of str object at 0x000001A5F68875F0>
+Aerosmith	Toys In The Attic	1975	<built-in method title of str object at 0x000001A5F6887630>
+Aerosmith	Toys In The Attic	1975	<built-in method title of str object at 0x000001A5F6885580>
+Aerosmith	Toys In The Attic	1975	<built-in method title of str object at 0x000001A5F68876B0>
+Aerosmith	Toys In The Attic	1975	<built-in method title of str object at 0x000001A5F68876F0>
+Aerosmith	Toys In The Attic	1975	<built-in method title of str object at 0x000001A5F6887730>
+Aerosmith	Toys In The Attic	1975	<built-in method title of str object at 0x000001A5F68855D0>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F68854E0>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F68877F0>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F6885620>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F6885670>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F6887870>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F68878F0>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F6887930>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F6887970>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F68879B0>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F68856C0>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F6885710>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F68870F0>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F68879F0>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F6887A30>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F6885760>
+Aerosmith	Live! Bootleg	1978	<built-in method title of str object at 0x000001A5F68857B0>
+Aerosmith	Night In The Ruts	1979	<built-in method title of str object at 0x000001A5F6887770>
+Aerosmith	Night In The Ruts	1979	<built-in method title of str object at 0x000001A5F6887AB0>
+Aerosmith	Night In The Ruts	1979	<built-in method title of str object at 0x000001A5F6885940>
+Aerosmith	Night In The Ruts	1979	<built-in method title of str object at 0x000001A5F6887AF0>
+Aerosmith	Night In The Ruts	1979	<built-in method title of str object at 0x000001A5F6885990>
+Aerosmith	Night In The Ruts	1979	<built-in method title of str object at 0x000001A5F68859E0>
+Aerosmith	Night In The Ruts	1979	<built-in method title of str object at 0x000001A5F687BB10>
+Aerosmith	Night In The Ruts	1979	<built-in method title of str object at 0x000001A5F6887B70>
+Aerosmith	Night In The Ruts	1979	<built-in method title of str object at 0x000001A5F6887BB0>
+Aerosmith	Done With Mirrors	1985	<built-in method title of str object at 0x000001A5F6885A30>
+Aerosmith	Done With Mirrors	1985	<built-in method title of str object at 0x000001A5F6885AD0>
+Aerosmith	Done With Mirrors	1985	<built-in method title of str object at 0x000001A5F6887BF0>
+Aerosmith	Done With Mirrors	1985	<built-in method title of str object at 0x000001A5F6885B70>
+Aerosmith	Done With Mirrors	1985	<built-in method title of str object at 0x000001A5F6887C30>
+Aerosmith	Done With Mirrors	1985	<built-in method title of str object at 0x000001A5F6887CB0>
+Aerosmith	Done With Mirrors	1985	<built-in method title of str object at 0x000001A5F6887CF0>
+Aerosmith	Done With Mirrors	1985	<built-in method title of str object at 0x000001A5F6887D30>
+Aerosmith	Done With Mirrors	1985	<built-in method title of str object at 0x000001A5F6887D70>
+Aerosmith	Permanent Vacation	1987	<built-in method title of str object at 0x000001A5F6885BC0>
+Aerosmith	Permanent Vacation	1987	<built-in method title of str object at 0x000001A5F6887DB0>
+Aerosmith	Permanent Vacation	1987	<built-in method title of str object at 0x000001A5F6887DF0>
+Aerosmith	Permanent Vacation	1987	<built-in method title of str object at 0x000001A5F6887E30>
+Aerosmith	Permanent Vacation	1987	<built-in method title of str object at 0x000001A5F6885CB0>
+Aerosmith	Permanent Vacation	1987	<built-in method title of str object at 0x000001A5F6887EB0>
+Aerosmith	Permanent Vacation	1987	<built-in method title of str object at 0x000001A5F6887EF0>
+Aerosmith	Permanent Vacation	1987	<built-in method title of str object at 0x000001A5F6885D00>
+Aerosmith	Permanent Vacation	1987	<built-in method title of str object at 0x000001A5F6887F30>
+Aerosmith	Permanent Vacation	1987	<built-in method title of str object at 0x000001A5F6885D50>
+Aerosmith	Permanent Vacation	1987	<built-in method title of str object at 0x000001A5F6887A70>
+Aerosmith	Permanent Vacation	1987	<built-in method title of str object at 0x000001A5F6887F70>
+Aerosmith	Gems	1988	<built-in method title of str object at 0x000001A5F6885C60>
+Aerosmith	Gems	1988	<built-in method title of str object at 0x000001A5F6885DA0>
+Aerosmith	Gems	1988	<built-in method title of str object at 0x000001A5F6885DF0>
+Aerosmith	Gems	1988	<built-in method title of str object at 0x000001A5F68880F0>
+Aerosmith	Gems	1988	<built-in method title of str object at 0x000001A5F6888130>
+Aerosmith	Gems	1988	<built-in method title of str object at 0x000001A5F68881B0>
+Aerosmith	Gems	1988	<built-in method title of str object at 0x000001A5F68881F0>
+Aerosmith	Gems	1988	<built-in method title of str object at 0x000001A5F6888230>
+Aerosmith	Gems	1988	<built-in method title of str object at 0x000001A5F6888270>
+Aerosmith	Gems	1988	<built-in method title of str object at 0x000001A5F6885E40>
+Aerosmith	Gems	1988	<built-in method title of str object at 0x000001A5F6888030>
+Aerosmith	Gems	1988	<built-in method title of str object at 0x000001A5F6885E90>
+Aerosmith	Pump	1989	<built-in method title of str object at 0x000001A5F68882B0>
+Aerosmith	Pump	1989	<built-in method title of str object at 0x000001A5F68882F0>
+Aerosmith	Pump	1989	<built-in method title of str object at 0x000001A5F687BAB0>
+Aerosmith	Pump	1989	<built-in method title of str object at 0x000001A5F6885F80>
+Aerosmith	Pump	1989	<built-in method title of str object at 0x000001A5F6885EE0>
+Aerosmith	Pump	1989	<built-in method title of str object at 0x000001A5F6889030>
+Aerosmith	Pump	1989	<built-in method title of str object at 0x000001A5F68883B0>
+Aerosmith	Pump	1989	<built-in method title of str object at 0x000001A5F6889080>
+Aerosmith	Pump	1989	<built-in method title of str object at 0x000001A5F68890D0>
+Aerosmith	Pump	1989	<built-in method title of str object at 0x000001A5F6888070>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F68883F0>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F6888470>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F68884F0>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F6888530>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F6889170>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F68885B0>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F68885F0>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F68891C0>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F6888630>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F68880B0>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F6888670>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F68886B0>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F6889210>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F68886F0>
+Aerosmith	Get A Grip	1993	<built-in method title of str object at 0x000001A5F6888730>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F6888770>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F68892B0>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F6888830>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F6888870>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F6889300>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F6889350>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F68888F0>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F6888930>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F6888970>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F68884B0>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F68889B0>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F68889F0>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F6888A30>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F6888A70>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F68893F0>
+Aerosmith	Big Ones	1994	<built-in method title of str object at 0x000001A5F68893A0>
+Aerosmith	Nine Lives	1997	<built-in method title of str object at 0x000001A5F6888AB0>
+Aerosmith	Nine Lives	1997	<built-in method title of str object at 0x000001A5F687BB70>
+Aerosmith	Nine Lives	1997	<built-in method title of str object at 0x000001A5F6888B70>
+Aerosmith	Nine Lives	1997	<built-in method title of str object at 0x000001A5F6888BB0>
+Aerosmith	Nine Lives	1997	<built-in method title of str object at 0x000001A5F6888BF0>
+Aerosmith	Nine Lives	1997	<built-in method title of str object at 0x000001A5F6889490>
+Aerosmith	Nine Lives	1997	<built-in method title of str object at 0x000001A5F68894E0>
+Aerosmith	Nine Lives	1997	<built-in method title of str object at 0x000001A5F6888C70>
+Aerosmith	Nine Lives	1997	<built-in method title of str object at 0x000001A5F6888CB0>
+Aerosmith	Nine Lives	1997	<built-in method title of str object at 0x000001A5F6889530>
+Aerosmith	Nine Lives	1997	<built-in method title of str object at 0x000001A5F68888B0>
+Aerosmith	Nine Lives	1997	<built-in method title of str object at 0x000001A5F6888CF0>
+Aerosmith	Nine Lives	1997	<built-in method title of str object at 0x000001A5F6889580>
+Aerosmith	Nine Lives	1997	<built-in method title of str object at 0x000001A5F6888D30>
+Aerosmith	Just Push Play	2001	<built-in method title of str object at 0x000001A5F68895D0>
+Aerosmith	Just Push Play	2001	<built-in method title of str object at 0x000001A5F6888DB0>
+Aerosmith	Just Push Play	2001	<built-in method title of str object at 0x000001A5F6888E30>
+Aerosmith	Just Push Play	2001	<built-in method title of str object at 0x000001A5F6889670>
+Aerosmith	Just Push Play	2001	<built-in method title of str object at 0x000001A5F6888E70>
+Aerosmith	Just Push Play	2001	<built-in method title of str object at 0x000001A5F6888EF0>
+Aerosmith	Just Push Play	2001	<built-in method title of str object at 0x000001A5F6888F30>
+Aerosmith	Just Push Play	2001	<built-in method title of str object at 0x000001A5F6888F70>
+Aerosmith	Just Push Play	2001	<built-in method title of str object at 0x000001A5F6888FB0>
+Aerosmith	Just Push Play	2001	<built-in method title of str object at 0x000001A5F68896C0>
+Aerosmith	Just Push Play	2001	<built-in method title of str object at 0x000001A5F6888C30>
+Aerosmith	Just Push Play	2001	<built-in method title of str object at 0x000001A5F688B030>
+Aerosmith	Just Push Play	2001	<built-in method title of str object at 0x000001A5F688B070>
+Alice Cooper	Welcome To My Nightmare	1975	<built-in method title of str object at 0x000001A5F6889760>
+Alice Cooper	Welcome To My Nightmare	1975	<built-in method title of str object at 0x000001A5F688B0F0>
+Alice Cooper	Welcome To My Nightmare	1975	<built-in method title of str object at 0x000001A5F688B170>
+Alice Cooper	Welcome To My Nightmare	1975	<built-in method title of str object at 0x000001A5F688B1B0>
+Alice Cooper	Welcome To My Nightmare	1975	<built-in method title of str object at 0x000001A5F68898F0>
+Alice Cooper	Welcome To My Nightmare	1975	<built-in method title of str object at 0x000001A5F6889940>
+Alice Cooper	Welcome To My Nightmare	1975	<built-in method title of str object at 0x000001A5F688B230>
+Alice Cooper	Welcome To My Nightmare	1975	<built-in method title of str object at 0x000001A5F688B270>
+Alice Cooper	Welcome To My Nightmare	1975	<built-in method title of str object at 0x000001A5F688B2B0>
+Alice Cooper	Welcome To My Nightmare	1975	<built-in method title of str object at 0x000001A5F688B130>
+Alice Cooper	Welcome To My Nightmare	1975	<built-in method title of str object at 0x000001A5F688B2F0>
+Alice Cooper	Welcome To My Nightmare	1975	<built-in method title of str object at 0x000001A5F6889990>
+Alice Cooper	Welcome To My Nightmare	1975	<built-in method title of str object at 0x000001A5F68899E0>
+Alice Cooper	Welcome To My Nightmare	1975	<built-in method title of str object at 0x000001A5F6889A30>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F688B370>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F688B430>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F68898A0>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F688B4B0>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F6889A80>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F688B530>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F6889AD0>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F6889B20>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F688B570>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F688B330>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F688B5B0>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F688B5F0>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F6889B70>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F688B630>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F6889BC0>
+Alice Cooper	Hell Is	2003	<built-in method title of str object at 0x000001A5F6889C10>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F6889CB0>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F687BBD0>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F688B6B0>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F6889E40>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F6889E90>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F6889EE0>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F6889F30>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F6889F80>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F688C030>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F688C080>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F688C0D0>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F688C120>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F688C170>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F688B1F0>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F688B730>
+Animals	The Most Of The Animals	1966	<built-in method title of str object at 0x000001A5F688B770>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<built-in method title of str object at 0x000001A5F687BC90>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<built-in method title of str object at 0x000001A5F688B830>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<built-in method title of str object at 0x000001A5F688C1C0>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<built-in method title of str object at 0x000001A5F688C210>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<built-in method title of str object at 0x000001A5F688C260>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<built-in method title of str object at 0x000001A5F688B8B0>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<built-in method title of str object at 0x000001A5F688B8F0>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<built-in method title of str object at 0x000001A5F688B930>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<built-in method title of str object at 0x000001A5F688C2B0>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<built-in method title of str object at 0x000001A5F688B870>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<built-in method title of str object at 0x000001A5F688B9B0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<built-in method title of str object at 0x000001A5F688BAB0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<built-in method title of str object at 0x000001A5F688C350>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<built-in method title of str object at 0x000001A5F688C3A0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<built-in method title of str object at 0x000001A5F688C3F0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<built-in method title of str object at 0x000001A5F688BB70>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<built-in method title of str object at 0x000001A5F688BBB0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<built-in method title of str object at 0x000001A5F687BE10>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<built-in method title of str object at 0x000001A5F688BBF0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<built-in method title of str object at 0x000001A5F688C440>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<built-in method title of str object at 0x000001A5F688C490>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<built-in method title of str object at 0x000001A5F688BA30>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<built-in method title of str object at 0x000001A5F688BC30>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<built-in method title of str object at 0x000001A5F688BAF0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<built-in method title of str object at 0x000001A5F688BCB0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<built-in method title of str object at 0x000001A5F688C530>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<built-in method title of str object at 0x000001A5F688C580>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<built-in method title of str object at 0x000001A5F688C5D0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<built-in method title of str object at 0x000001A5F688BD30>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<built-in method title of str object at 0x000001A5F688BD70>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<built-in method title of str object at 0x000001A5F687BD50>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<built-in method title of str object at 0x000001A5F687BE70>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<built-in method title of str object at 0x000001A5F688BCF0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<built-in method title of str object at 0x000001A5F688BDB0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<built-in method title of str object at 0x000001A5F688BDF0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688C670>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688BFB0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688C800>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688C850>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688C8A0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688C8F0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688C940>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688C990>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688E0B0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688E070>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688E0F0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688C9E0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688E130>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688E170>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<built-in method title of str object at 0x000001A5F688E1B0>
+Heart	Dreamboat Annie	1976	<built-in method title of str object at 0x000001A5F688E230>
+Heart	Dreamboat Annie	1976	<built-in method title of str object at 0x000001A5F688CA30>
+Heart	Dreamboat Annie	1976	<built-in method title of str object at 0x000001A5F688E3F0>
+Heart	Dreamboat Annie	1976	<built-in method title of str object at 0x000001A5F688E430>
+Heart	Dreamboat Annie	1976	<built-in method title of str object at 0x000001A5F688E470>
+Heart	Dreamboat Annie	1976	<built-in method title of str object at 0x000001A5F688CA80>
+Heart	Dreamboat Annie	1976	<built-in method title of str object at 0x000001A5F687BDB0>
+Heart	Dreamboat Annie	1976	<built-in method title of str object at 0x000001A5F688E4F0>
+Heart	Dreamboat Annie	1976	<built-in method title of str object at 0x000001A5F688CAD0>
+Heart	Dreamboat Annie	1976	<built-in method title of str object at 0x000001A5F688CB20>
+Heart	Little Queen	1977	<built-in method title of str object at 0x000001A5F688E2B0>
+Heart	Little Queen	1977	<built-in method title of str object at 0x000001A5F688E5B0>
+Heart	Little Queen	1977	<built-in method title of str object at 0x000001A5F688E630>
+Heart	Little Queen	1977	<built-in method title of str object at 0x000001A5F688CBC0>
+Heart	Little Queen	1977	<built-in method title of str object at 0x000001A5F688E670>
+Heart	Little Queen	1977	<built-in method title of str object at 0x000001A5F688E6F0>
+Heart	Little Queen	1977	<built-in method title of str object at 0x000001A5F688E730>
+Heart	Little Queen	1977	<built-in method title of str object at 0x000001A5F688E770>
+Heart	Little Queen	1977	<built-in method title of str object at 0x000001A5F688E7B0>
+Heart	Little Queen	1977	<built-in method title of str object at 0x000001A5F688E330>
+Heart	Little Queen	1977	<built-in method title of str object at 0x000001A5F688E7F0>
+Heart	Little Queen	1977	<built-in method title of str object at 0x000001A5F688CC10>
+Heart	Dog & Butterfly	1978	<built-in method title of str object at 0x000001A5F688E830>
+Heart	Dog & Butterfly	1978	<built-in method title of str object at 0x000001A5F688E8F0>
+Heart	Dog & Butterfly	1978	<built-in method title of str object at 0x000001A5F688E970>
+Heart	Dog & Butterfly	1978	<built-in method title of str object at 0x000001A5F688E9B0>
+Heart	Dog & Butterfly	1978	<built-in method title of str object at 0x000001A5F688E9F0>
+Heart	Dog & Butterfly	1978	<built-in method title of str object at 0x000001A5F688EA70>
+Heart	Dog & Butterfly	1978	<built-in method title of str object at 0x000001A5F688EAB0>
+Heart	Dog & Butterfly	1978	<built-in method title of str object at 0x000001A5F688EAF0>
+Heart	Dog & Butterfly	1978	<built-in method title of str object at 0x000001A5F688EB30>
+Heart	Dog & Butterfly	1978	<built-in method title of str object at 0x000001A5F688E530>
+Heart	Dog & Butterfly	1978	<built-in method title of str object at 0x000001A5F688EB70>
+Heaven & Hell	The Devil You Know	2009	<built-in method title of str object at 0x000001A5F688E8B0>
+Heaven & Hell	The Devil You Know	2009	<built-in method title of str object at 0x000001A5F688EC70>
+Heaven & Hell	The Devil You Know	2009	<built-in method title of str object at 0x000001A5F688ECF0>
+Heaven & Hell	The Devil You Know	2009	<built-in method title of str object at 0x000001A5F688ED30>
+Heaven & Hell	The Devil You Know	2009	<built-in method title of str object at 0x000001A5F688CE40>
+Heaven & Hell	The Devil You Know	2009	<built-in method title of str object at 0x000001A5F688CE90>
+Heaven & Hell	The Devil You Know	2009	<built-in method title of str object at 0x000001A5F688CEE0>
+Heaven & Hell	The Devil You Know	2009	<built-in method title of str object at 0x000001A5F688CF30>
+Heaven & Hell	The Devil You Know	2009	<built-in method title of str object at 0x000001A5F688EDB0>
+Heaven & Hell	The Devil You Know	2009	<built-in method title of str object at 0x000001A5F688CF80>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F688EBF0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F688F030>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F688EF30>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F688EF70>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F688F080>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F688F0D0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F687BF90>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F688F120>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F6890030>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F688F170>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F688EE70>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F688F1C0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F688F210>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F6890070>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F68900B0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F68900F0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F6890130>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<built-in method title of str object at 0x000001A5F688F260>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F688F300>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F688F440>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F688F4E0>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F688F530>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F688F580>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F68902F0>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F6890330>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F688F5D0>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F6890370>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F68901F0>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F688F620>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F688F670>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F688F6C0>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F68903B0>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F688F710>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F68903F0>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F6890430>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F687BF30>
+Treatment	Running With The Dogs	2014	<built-in method title of str object at 0x000001A5F688F760>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F6890470>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F68905B0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F688F7B0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F688F800>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F688F850>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F6890670>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F68906B0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F68906F0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F6890730>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F6890530>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F688F8A0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F6890770>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F68907B0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F68907F0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F688F8F0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F688F940>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F6890830>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F688F990>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F6890870>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<built-in method title of str object at 0x000001A5F68908B0>
+Troggs	Athens Andover	1992	<built-in method title of str object at 0x000001A5F6890930>
+Troggs	Athens Andover	1992	<built-in method title of str object at 0x000001A5F6890AB0>
+Troggs	Athens Andover	1992	<built-in method title of str object at 0x000001A5F6890B70>
+Troggs	Athens Andover	1992	<built-in method title of str object at 0x000001A5F6890BB0>
+Troggs	Athens Andover	1992	<built-in method title of str object at 0x000001A5F6890BF0>
+Troggs	Athens Andover	1992	<built-in method title of str object at 0x000001A5F6890C70>
+Troggs	Athens Andover	1992	<built-in method title of str object at 0x000001A5F6890CB0>
+Troggs	Athens Andover	1992	<built-in method title of str object at 0x000001A5F6890CF0>
+Troggs	Athens Andover	1992	<built-in method title of str object at 0x000001A5F688FA80>
+Troggs	Athens Andover	1992	<built-in method title of str object at 0x000001A5F68909F0>
+Troggs	Athens Andover	1992	<built-in method title of str object at 0x000001A5F6890D30>
+Troggs	Wild Thing - The Greatest Hits	1993	<built-in method title of str object at 0x000001A5F6890A70>
+Troggs	Wild Thing - The Greatest Hits	1993	<built-in method title of str object at 0x000001A5F688FBC0>
+Troggs	Wild Thing - The Greatest Hits	1993	<built-in method title of str object at 0x000001A5F688FC60>
+Troggs	Wild Thing - The Greatest Hits	1993	<built-in method title of str object at 0x000001A5F6890DB0>
+Troggs	Wild Thing - The Greatest Hits	1993	<built-in method title of str object at 0x000001A5F688FCB0>
+Troggs	Wild Thing - The Greatest Hits	1993	<built-in method title of str object at 0x000001A5F688FD00>
+Troggs	Wild Thing - The Greatest Hits	1993	<built-in method title of str object at 0x000001A5F6890E30>
+Troggs	Wild Thing - The Greatest Hits	1993	<built-in method title of str object at 0x000001A5F688FD50>
+Troggs	Wild Thing - The Greatest Hits	1993	<built-in method title of str object at 0x000001A5F6890E70>
+Troggs	Wild Thing - The Greatest Hits	1993	<built-in method title of str object at 0x000001A5F688FDA0>
+Troggs	Wild Thing - The Greatest Hits	1993	<built-in method title of str object at 0x000001A5F6890B30>
+Troggs	Wild Thing - The Greatest Hits	1993	<built-in method title of str object at 0x000001A5F6890EB0>
+Troggs	Wild Thing - The Greatest Hits	1993	<built-in method title of str object at 0x000001A5F6890EF0>
+Troggs	Wild Thing - The Greatest Hits	1993	<built-in method title of str object at 0x000001A5F688FDF0>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F6890F70>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F6892130>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F6891030>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F688FE40>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F688FE90>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F6892230>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F6892270>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F68922B0>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F6891090>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F688FEE0>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F6892070>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F688FF30>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F68922F0>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F6892330>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F6892370>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F68923B0>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F6891150>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F688FF80>
+U2	18 Singles	2006	<built-in method title of str object at 0x000001A5F6894030>
+UFO	Phenomenon	1999	<built-in method title of str object at 0x000001A5F68923F0>
+UFO	Phenomenon	1999	<built-in method title of str object at 0x000001A5F6892530>
+UFO	Phenomenon	1999	<built-in method title of str object at 0x000001A5F68925F0>
+UFO	Phenomenon	1999	<built-in method title of str object at 0x000001A5F6892630>
+UFO	Phenomenon	1999	<built-in method title of str object at 0x000001A5F6892670>
+UFO	Phenomenon	1999	<built-in method title of str object at 0x000001A5F6894080>
+UFO	Phenomenon	1999	<built-in method title of str object at 0x000001A5F6894170>
+UFO	Phenomenon	1999	<built-in method title of str object at 0x000001A5F68941C0>
+UFO	Phenomenon	1999	<built-in method title of str object at 0x000001A5F68926F0>
+UFO	Phenomenon	1999	<built-in method title of str object at 0x000001A5F6894210>
+Uriah Heep	Demons And Wizards	1972	<built-in method title of str object at 0x000001A5F68924B0>
+Uriah Heep	Demons And Wizards	1972	<built-in method title of str object at 0x000001A5F68943A0>
+Uriah Heep	Demons And Wizards	1972	<built-in method title of str object at 0x000001A5F68927F0>
+Uriah Heep	Demons And Wizards	1972	<built-in method title of str object at 0x000001A5F6892830>
+Uriah Heep	Demons And Wizards	1972	<built-in method title of str object at 0x000001A5F6892870>
+Uriah Heep	Demons And Wizards	1972	<built-in method title of str object at 0x000001A5F68928F0>
+Uriah Heep	Demons And Wizards	1972	<built-in method title of str object at 0x000001A5F6892930>
+Uriah Heep	Demons And Wizards	1972	<built-in method title of str object at 0x000001A5F6892970>
+Uriah Heep	Demons And Wizards	1972	<built-in method title of str object at 0x000001A5F68929B0>
+Uriah Heep	The Magician's Birthday	1972	<built-in method title of str object at 0x000001A5F6892730>
+Uriah Heep	The Magician's Birthday	1972	<built-in method title of str object at 0x000001A5F6892A70>
+Uriah Heep	The Magician's Birthday	1972	<built-in method title of str object at 0x000001A5F6892AB0>
+Uriah Heep	The Magician's Birthday	1972	<built-in method title of str object at 0x000001A5F68944E0>
+Uriah Heep	The Magician's Birthday	1972	<built-in method title of str object at 0x000001A5F6892AF0>
+Uriah Heep	The Magician's Birthday	1972	<built-in method title of str object at 0x000001A5F6892B70>
+Uriah Heep	The Magician's Birthday	1972	<built-in method title of str object at 0x000001A5F6892BB0>
+Uriah Heep	The Magician's Birthday	1972	<built-in method title of str object at 0x000001A5F6894530>
+Uriah Heep	Uriah Heep Live	1986	<built-in method title of str object at 0x000001A5F6892C30>
+Uriah Heep	Uriah Heep Live	1986	<built-in method title of str object at 0x000001A5F6892D30>
+Uriah Heep	Uriah Heep Live	1986	<built-in method title of str object at 0x000001A5F6892DB0>
+Uriah Heep	Uriah Heep Live	1986	<built-in method title of str object at 0x000001A5F6894490>
+Uriah Heep	Uriah Heep Live	1986	<built-in method title of str object at 0x000001A5F6892DF0>
+Uriah Heep	Uriah Heep Live	1986	<built-in method title of str object at 0x000001A5F6892E70>
+Uriah Heep	Uriah Heep Live	1986	<built-in method title of str object at 0x000001A5F6892EB0>
+Uriah Heep	Uriah Heep Live	1986	<built-in method title of str object at 0x000001A5F6894580>
+Vangelis	Albedo 0.39	1976	<built-in method title of str object at 0x000001A5F6892EF0>
+Vangelis	Albedo 0.39	1976	<built-in method title of str object at 0x000001A5F6895070>
+Vangelis	Albedo 0.39	1976	<built-in method title of str object at 0x000001A5F6894670>
+Vangelis	Albedo 0.39	1976	<built-in method title of str object at 0x000001A5F6895130>
+Vangelis	Albedo 0.39	1976	<built-in method title of str object at 0x000001A5F6895170>
+Vangelis	Albedo 0.39	1976	<built-in method title of str object at 0x000001A5F68951F0>
+Vangelis	Albedo 0.39	1976	<built-in method title of str object at 0x000001A5F68946C0>
+Vangelis	Albedo 0.39	1976	<built-in method title of str object at 0x000001A5F6894710>
+Vangelis	Albedo 0.39	1976	<built-in method title of str object at 0x000001A5F6895230>
+Van Halen	Van Halen	1978	<built-in method title of str object at 0x000001A5F6894760>
+Van Halen	Van Halen	1978	<built-in method title of str object at 0x000001A5F6895330>
+Van Halen	Van Halen	1978	<built-in method title of str object at 0x000001A5F6894850>
+Van Halen	Van Halen	1978	<built-in method title of str object at 0x000001A5F68948A0>
+Van Halen	Van Halen	1978	<built-in method title of str object at 0x000001A5F68953F0>
+Van Halen	Van Halen	1978	<built-in method title of str object at 0x000001A5F6895470>
+Van Halen	Van Halen	1978	<built-in method title of str object at 0x000001A5F68954B0>
+Van Halen	Van Halen	1978	<built-in method title of str object at 0x000001A5F68948F0>
+Van Halen	Van Halen	1978	<built-in method title of str object at 0x000001A5F68954F0>
+Van Halen	Van Halen	1978	<built-in method title of str object at 0x000001A5F6895270>
+Van Halen	Van Halen	1978	<built-in method title of str object at 0x000001A5F6895530>
+Van Halen	1984	1984	<built-in method title of str object at 0x000001A5F6895570>
+Van Halen	1984	1984	<built-in method title of str object at 0x000001A5F6895630>
+Van Halen	1984	1984	<built-in method title of str object at 0x000001A5F68956B0>
+Van Halen	1984	1984	<built-in method title of str object at 0x000001A5F68956F0>
+Van Halen	1984	1984	<built-in method title of str object at 0x000001A5F6895730>
+Van Halen	1984	1984	<built-in method title of str object at 0x000001A5F68957B0>
+Van Halen	1984	1984	<built-in method title of str object at 0x000001A5F68957F0>
+Van Halen	1984	1984	<built-in method title of str object at 0x000001A5F6895830>
+Van Halen	1984	1984	<built-in method title of str object at 0x000001A5F6895870>
+Velvet Revolver	Libertad	2007	<built-in method title of str object at 0x000001A5F68952F0>
+Velvet Revolver	Libertad	2007	<built-in method title of str object at 0x000001A5F68959B0>
+Velvet Revolver	Libertad	2007	<built-in method title of str object at 0x000001A5F6894A30>
+Velvet Revolver	Libertad	2007	<built-in method title of str object at 0x000001A5F6894A80>
+Velvet Revolver	Libertad	2007	<built-in method title of str object at 0x000001A5F6895A70>
+Velvet Revolver	Libertad	2007	<built-in method title of str object at 0x000001A5F6894AD0>
+Velvet Revolver	Libertad	2007	<built-in method title of str object at 0x000001A5F6895AF0>
+Velvet Revolver	Libertad	2007	<built-in method title of str object at 0x000001A5F6895B30>
+Velvet Revolver	Libertad	2007	<built-in method title of str object at 0x000001A5F6895B70>
+Velvet Revolver	Libertad	2007	<built-in method title of str object at 0x000001A5F6894B20>
+Velvet Revolver	Libertad	2007	<built-in method title of str object at 0x000001A5F68958F0>
+Velvet Revolver	Libertad	2007	<built-in method title of str object at 0x000001A5F6895BB0>
+Velvet Revolver	Libertad	2007	<built-in method title of str object at 0x000001A5F6895BF0>
+Velvet Underground	The Velvet Underground & Nico	1967	<built-in method title of str object at 0x000001A5F6895AB0>
+Velvet Underground	The Velvet Underground & Nico	1967	<built-in method title of str object at 0x000001A5F6894D50>
+Velvet Underground	The Velvet Underground & Nico	1967	<built-in method title of str object at 0x000001A5F6895C70>
+Velvet Underground	The Velvet Underground & Nico	1967	<built-in method title of str object at 0x000001A5F6895CB0>
+Velvet Underground	The Velvet Underground & Nico	1967	<built-in method title of str object at 0x000001A5F6895CF0>
+Velvet Underground	The Velvet Underground & Nico	1967	<built-in method title of str object at 0x000001A5F6894E40>
+Velvet Underground	The Velvet Underground & Nico	1967	<built-in method title of str object at 0x000001A5F6895D70>
+Velvet Underground	The Velvet Underground & Nico	1967	<built-in method title of str object at 0x000001A5F6894E90>
+Velvet Underground	The Velvet Underground & Nico	1967	<built-in method title of str object at 0x000001A5F6894EE0>
+Velvet Underground	The Velvet Underground & Nico	1967	<built-in method title of str object at 0x000001A5F6894F30>
+Velvet Underground	The Velvet Underground & Nico	1967	<built-in method title of str object at 0x000001A5F6895D30>
+Vladimir Vysotsky	Izbrannoye	2011	<built-in method title of str object at 0x000001A5F6894CB0>
+Warner E Hodges	Gunslinger	2014	<built-in method title of str object at 0x000001A5F6894F80>
+Warner E Hodges	Gunslinger	2014	<built-in method title of str object at 0x000001A5F6896130>
+Warner E Hodges	Gunslinger	2014	<built-in method title of str object at 0x000001A5F689A0D0>
+Warner E Hodges	Gunslinger	2014	<built-in method title of str object at 0x000001A5F68961F0>
+Warner E Hodges	Gunslinger	2014	<built-in method title of str object at 0x000001A5F689A120>
+Warner E Hodges	Gunslinger	2014	<built-in method title of str object at 0x000001A5F689A170>
+Warner E Hodges	Gunslinger	2014	<built-in method title of str object at 0x000001A5F6896270>
+Warner E Hodges	Gunslinger	2014	<built-in method title of str object at 0x000001A5F68962B0>
+Warner E Hodges	Gunslinger	2014	<built-in method title of str object at 0x000001A5F68962F0>
+Warner E Hodges	Gunslinger	2014	<built-in method title of str object at 0x000001A5F6896070>
+White Zombie	Astro-Creep	2000	<built-in method title of str object at 0x000001A5F68910F0>
+White Zombie	Astro-Creep	2000	<built-in method title of str object at 0x000001A5F689A260>
+White Zombie	Astro-Creep	2000	<built-in method title of str object at 0x000001A5F689A2B0>
+White Zombie	Astro-Creep	2000	<built-in method title of str object at 0x000001A5F689A300>
+White Zombie	Astro-Creep	2000	<built-in method title of str object at 0x000001A5F6891210>
+White Zombie	Astro-Creep	2000	<built-in method title of str object at 0x000001A5F689A350>
+White Zombie	Astro-Creep	2000	<built-in method title of str object at 0x000001A5F68964F0>
+White Zombie	Astro-Creep	2000	<built-in method title of str object at 0x000001A5F689A3A0>
+White Zombie	Astro-Creep	2000	<built-in method title of str object at 0x000001A5F6891270>
+White Zombie	Astro-Creep	2000	<built-in method title of str object at 0x000001A5F689A3F0>
+White Zombie	Astro-Creep	2000	<built-in method title of str object at 0x000001A5F689A440>
+Wishbone Ash	Argus	1972	<built-in method title of str object at 0x000001A5F6896370>
+Wishbone Ash	Argus	1972	<built-in method title of str object at 0x000001A5F6896630>
+Wishbone Ash	Argus	1972	<built-in method title of str object at 0x000001A5F68966F0>
+Wishbone Ash	Argus	1972	<built-in method title of str object at 0x000001A5F689A530>
+Wishbone Ash	Argus	1972	<built-in method title of str object at 0x000001A5F6896730>
+Wishbone Ash	Argus	1972	<built-in method title of str object at 0x000001A5F68967B0>
+Wishbone Ash	Argus	1972	<built-in method title of str object at 0x000001A5F689A580>
+Wishbone Ash	Argus	1972	<built-in method title of str object at 0x000001A5F68911B0>
+Wishbone Ash	Argus	1972	<built-in method title of str object at 0x000001A5F68912D0>
+Wishbone Ash	Argus	1972	<built-in method title of str object at 0x000001A5F6891330>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<built-in method title of str object at 0x000001A5F689A5D0>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<built-in method title of str object at 0x000001A5F6896530>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<built-in method title of str object at 0x000001A5F689A670>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<built-in method title of str object at 0x000001A5F689A6C0>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<built-in method title of str object at 0x000001A5F689A710>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<built-in method title of str object at 0x000001A5F689A760>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<built-in method title of str object at 0x000001A5F6896830>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<built-in method title of str object at 0x000001A5F6896870>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<built-in method title of str object at 0x000001A5F68968B0>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<built-in method title of str object at 0x000001A5F68965F0>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<built-in method title of str object at 0x000001A5F68968F0>
+Wishbone Ash	Wishbone Four	1973	<built-in method title of str object at 0x000001A5F689A7B0>
+Wishbone Ash	Wishbone Four	1973	<built-in method title of str object at 0x000001A5F689A850>
+Wishbone Ash	Wishbone Four	1973	<built-in method title of str object at 0x000001A5F6896A70>
+Wishbone Ash	Wishbone Four	1973	<built-in method title of str object at 0x000001A5F689A8A0>
+Wishbone Ash	Wishbone Four	1973	<built-in method title of str object at 0x000001A5F6896AB0>
+Wishbone Ash	Wishbone Four	1973	<built-in method title of str object at 0x000001A5F6896B30>
+Wishbone Ash	Wishbone Four	1973	<built-in method title of str object at 0x000001A5F689A8F0>
+Wishbone Ash	Wishbone Four	1973	<built-in method title of str object at 0x000001A5F689A940>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F6896AF0>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F689AAD0>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F689AB70>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F6896C70>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F689ABC0>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F6896CF0>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F6896D30>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F689AC10>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F6896D70>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F6896BB0>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F689AC60>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F689ACB0>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F6896DB0>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F6896DF0>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F689AD00>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F689AD50>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F6891450>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F689ADA0>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F689ADF0>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F689AE40>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F689AE90>
+Yardbirds	The Very Best of the Yardbirds	1991	<built-in method title of str object at 0x000001A5F6896E30>
+Yngwie Malmsteen	Rising Force	1984	<built-in method title of str object at 0x000001A5F6896E70>
+Yngwie Malmsteen	Rising Force	1984	<built-in method title of str object at 0x000001A5F689AF80>
+Yngwie Malmsteen	Rising Force	1984	<built-in method title of str object at 0x000001A5F6897080>
+Yngwie Malmsteen	Rising Force	1984	<built-in method title of str object at 0x000001A5F6899030>
+Yngwie Malmsteen	Rising Force	1984	<built-in method title of str object at 0x000001A5F68970D0>
+Yngwie Malmsteen	Rising Force	1984	<built-in method title of str object at 0x000001A5F6897120>
+Yngwie Malmsteen	Rising Force	1984	<built-in method title of str object at 0x000001A5F68990B0>
+Yngwie Malmsteen	Rising Force	1984	<built-in method title of str object at 0x000001A5F68990F0>
+ZZ Top	Rio Grande Mud	1972	<built-in method title of str object at 0x000001A5F6899170>
+ZZ Top	Rio Grande Mud	1972	<built-in method title of str object at 0x000001A5F68992F0>
+ZZ Top	Rio Grande Mud	1972	<built-in method title of str object at 0x000001A5F6897170>
+ZZ Top	Rio Grande Mud	1972	<built-in method title of str object at 0x000001A5F68993B0>
+ZZ Top	Rio Grande Mud	1972	<built-in method title of str object at 0x000001A5F68993F0>
+ZZ Top	Rio Grande Mud	1972	<built-in method title of str object at 0x000001A5F68971C0>
+ZZ Top	Rio Grande Mud	1972	<built-in method title of str object at 0x000001A5F6899470>
+ZZ Top	Rio Grande Mud	1972	<built-in method title of str object at 0x000001A5F68913F0>
+ZZ Top	Rio Grande Mud	1972	<built-in method title of str object at 0x000001A5F68994B0>
+ZZ Top	Rio Grande Mud	1972	<built-in method title of str object at 0x000001A5F6899230>
+ZZ Top	Tres Hombres	1973	<built-in method title of str object at 0x000001A5F6897210>
+ZZ Top	Tres Hombres	1973	<built-in method title of str object at 0x000001A5F68972B0>
+ZZ Top	Tres Hombres	1973	<built-in method title of str object at 0x000001A5F6897300>
+ZZ Top	Tres Hombres	1973	<built-in method title of str object at 0x000001A5F6897350>
+ZZ Top	Tres Hombres	1973	<built-in method title of str object at 0x000001A5F68973A0>
+ZZ Top	Tres Hombres	1973	<built-in method title of str object at 0x000001A5F68973F0>
+ZZ Top	Tres Hombres	1973	<built-in method title of str object at 0x000001A5F6897440>
+ZZ Top	Tres Hombres	1973	<built-in method title of str object at 0x000001A5F68995F0>
+ZZ Top	Tres Hombres	1973	<built-in method title of str object at 0x000001A5F6899630>
+ZZ Top	Tres Hombres	1973	<built-in method title of str object at 0x000001A5F68992B0>
+ZZ Top	Tres Hombres	1973	<built-in method title of str object at 0x000001A5F6891510>
+ZZ Top	Tres Hombres	1973	<built-in method title of str object at 0x000001A5F68914B0>
+ZZ Top	Tres Hombres	1973	<built-in method title of str object at 0x000001A5F6897490>
+ZZ Top	Degüello	1979	<built-in method title of str object at 0x000001A5F68994F0>
+ZZ Top	Degüello	1979	<built-in method title of str object at 0x000001A5F6897530>
+ZZ Top	Degüello	1979	<built-in method title of str object at 0x000001A5F6897580>
+ZZ Top	Degüello	1979	<built-in method title of str object at 0x000001A5F68975D0>
+ZZ Top	Degüello	1979	<built-in method title of str object at 0x000001A5F68996B0>
+ZZ Top	Degüello	1979	<built-in method title of str object at 0x000001A5F6899730>
+ZZ Top	Degüello	1979	<built-in method title of str object at 0x000001A5F6897620>
+ZZ Top	Degüello	1979	<built-in method title of str object at 0x000001A5F6899770>
+ZZ Top	Degüello	1979	<built-in method title of str object at 0x000001A5F6897670>
+ZZ Top	Degüello	1979	<built-in method title of str object at 0x000001A5F68976C0>
+ZZ Top	Recycler	1990	<built-in method title of str object at 0x000001A5F6897710>
+ZZ Top	Recycler	1990	<built-in method title of str object at 0x000001A5F6899870>
+ZZ Top	Recycler	1990	<built-in method title of str object at 0x000001A5F68998F0>
+ZZ Top	Recycler	1990	<built-in method title of str object at 0x000001A5F6899930>
+ZZ Top	Recycler	1990	<built-in method title of str object at 0x000001A5F68977B0>
+ZZ Top	Recycler	1990	<built-in method title of str object at 0x000001A5F6897800>
+ZZ Top	Recycler	1990	<built-in method title of str object at 0x000001A5F68999B0>
+ZZ Top	Recycler	1990	<built-in method title of str object at 0x000001A5F68999F0>
+ZZ Top	Recycler	1990	<built-in method title of str object at 0x000001A5F6899A30>
+ZZ Top	Recycler	1990	<built-in method title of str object at 0x000001A5F68997B0>
+ZZ Top	Antenna	1994	<built-in method title of str object at 0x000001A5F6899A70>
+ZZ Top	Antenna	1994	<built-in method title of str object at 0x000001A5F6899B70>
+ZZ Top	Antenna	1994	<built-in method title of str object at 0x000001A5F6899BF0>
+ZZ Top	Antenna	1994	<built-in method title of str object at 0x000001A5F6899C30>
+ZZ Top	Antenna	1994	<built-in method title of str object at 0x000001A5F68978F0>
+ZZ Top	Antenna	1994	<built-in method title of str object at 0x000001A5F6899CB0>
+ZZ Top	Antenna	1994	<built-in method title of str object at 0x000001A5F6899CF0>
+ZZ Top	Antenna	1994	<built-in method title of str object at 0x000001A5F6899D30>
+ZZ Top	Antenna	1994	<built-in method title of str object at 0x000001A5F6899D70>
+ZZ Top	Antenna	1994	<built-in method title of str object at 0x000001A5F6899AB0>
+ZZ Top	Antenna	1994	<built-in method title of str object at 0x000001A5F6899DB0>
+ZZ Top	Antenna	1994	<built-in method title of str object at 0x000001A5F6899DF0>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F6899E30>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F6897850>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F6899F30>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F6899F70>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F6899FB0>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F689B070>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F689B0B0>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F6897990>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F689B0F0>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F68979E0>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F689B030>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F689B130>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F689B170>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F689B1B0>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F689B1F0>
+ZZ Top	Mescalero	2003	<built-in method title of str object at 0x000001A5F689B230>
